@@ -1,4 +1,4 @@
-🚩 Problem
+ Problem
 =============================================================================================================================================
 In many apartments, hostels, and office complexes, tenants face recurring issues such as broken facilities, IT outages, or maintenance delays.
 
@@ -34,7 +34,7 @@ Lifecycle Tracking → Complaints move from Pending → Completed → History.
 Summary Section → Owners see pending vs resolved counts for quick reporting.
 
 ================================================================================================================
-## 🔄 System Workflow Diagram
+ System Workflow Diagram
 
 Tenant (User)  
    │  
