@@ -16,7 +16,6 @@ Tenants lack visibility into the status of their complaints, leading to frustrat
 
 This results in delays, mismanagement, and tenant dissatisfaction, while owners lack a clear system to monitor and resolve issues efficiently.
 
-=====================================================================================================================
 ✅ Solution
 ===========================================================================================================================
 I developed a digital, AI‑powered Complaint Management Dashboard that transforms this process into a structured workflow:
@@ -63,7 +62,6 @@ History Records
 - Stores completed complaints  
 - Provides accountability & reporting
 
-=====================================================================================================
 Tech Stack
 =======================================================================================================
 🔹 Programming & Core
