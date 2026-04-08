@@ -95,3 +95,4 @@ Accountability → Historical records ensure issues are documented and resolved.
 Decision Support → Priority levels highlight urgent issues for faster action.
 Scalability → The system can be extended to larger complexes or integrated with databases/cloud deployment.
 
+================================================================================================================================
