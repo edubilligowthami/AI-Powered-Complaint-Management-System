@@ -63,7 +63,7 @@ History Records
 - Provides accountability & reporting
 
 Tech Stack
-=======================================================================================================
+
 🔹 Programming & Core
 Python 3.11 → Main programming language for complaint handling, AI/NLP, and workflow automation.
 VS Code → Development environment used for coding, debugging, and testing the Streamlit app.
@@ -88,7 +88,7 @@ GitHub → Repository hosting, version control, and portfolio showcase.
 
 ===========================================================================================
 🎯 Impact
-================================================================================================
+
 Efficiency → Owners save time with automated classification and prioritization.
 Transparency → Tenants know their complaint is logged and tracked.
 Accountability → Historical records ensure issues are documented and resolved.
