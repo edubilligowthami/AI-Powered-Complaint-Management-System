@@ -32,7 +32,7 @@ Lifecycle Tracking → Complaints move from Pending → Completed → History.
 
 Summary Section → Owners see pending vs resolved counts for quick reporting.
 
-================================================================================================================
+--------------------------------------------------------------------------------------------------------------------------------------------
  System Workflow Diagram
 
 Tenant (User)  
